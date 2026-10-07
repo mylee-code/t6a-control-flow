@@ -11,3 +11,4 @@
 for aisle in range(1, 3):          #
     for shelf in range(1, 4):    
         print(f"A{aisle}-S{shelf}")
+Why do I have to commit nine times
