@@ -5,3 +5,5 @@ check_times = range(15, 151, 15)
 
 for check, minutes in enumerate(check_times, start=1):
     print(f"Check {check}: {minutes} minutes after shift start")
+
+why are they called katas
